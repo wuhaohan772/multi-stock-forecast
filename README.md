@@ -1,6 +1,6 @@
 # Multi-Stock Return Forecasting
 
-Per-ticker **Ridge** models to forecast next-period returns; **Bayesian-optimized alphas** to optimize regularization coefficent 
+Per-ticker **Ridge** models to forecast next-day returns; **Bayesian-optimized alphas** to optimize regularization coefficent 
 
 ## Project Layout
 ```
